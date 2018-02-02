@@ -1,0 +1,64 @@
+{
+  "categorias": [
+    {
+      "id":1,
+      "titulo":"Terror",
+      "filmes":[
+        {
+          "id":1,"titulo":"It A Coisa","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":2,"titulo":"It A Coisa","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":3,"titulo":"It A Coisa","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":4,"titulo":"It A Coisa","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":5,"titulo":"It A Coisa","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":6,"titulo":"It A Coisa","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":7,"titulo":"It A Coisa","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":8,"titulo":"It A Coisa","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "titulo":"Comédia",
+      "filmes":[
+        {
+          "id":1,"titulo":"Click","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":2,"titulo":"Click","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":3,"titulo":"Click","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":4,"titulo":"Click","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":5,"titulo":"Click","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":6,"titulo":"Click","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":7,"titulo":"Click","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        },
+        {
+          "id":8,"titulo":"Click","imagemFilme":"https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+        }
+      ]
+    }
+  ]
+}
